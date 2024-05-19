@@ -1,0 +1,17 @@
+[
+  {
+    "sample-id": "X123-Tn13",
+    "case-id": "X123",
+    "sample-label": "Tn13",
+    "data-type": "wgs",
+    "lanes": [
+      {
+        "path": "X123-Tn13/wgs/HYKKLDSXX_DNA_X123-Tn13_GAAGGAAG-ATGACGTC_L001_R1_001.fastq.gz",
+        "lane": 1,
+        "marker-forward": "GAAGGAAG",
+        "marker-reverse": "ATGACGTC",
+        "barcode": "HYKKLDSXX"
+      }
+    ]
+  }
+]
