@@ -1,7 +1,14 @@
-Filetree sample data is a batch application.
+_**Filetree sample data is a batch application.**_
 
 It will take a JSON file with a collection of object keys as input and
 create an output file consisting of metadata for each object key.
+
+**Prerequisites:**
+
+- Git
+- Python3
+- IDEA (PyCharm or other favorite)
+- terminal (iTerm or other favorite)
 
 The application requires at least two _CLI_ arguments below from the user to start the application successfully.
 
